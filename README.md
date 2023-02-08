@@ -1,4 +1,4 @@
-![alt text](![image](https://user-images.githubusercontent.com/60804832/217677737-3a88c0b2-4e83-4f9e-8b5a-5c08a62c2767.png)
+![image](https://user-images.githubusercontent.com/60804832/217677773-20e48099-3de4-4eef-9e51-7eb93542eb76.png)
 )
 
 ## Optimal guidance at work
