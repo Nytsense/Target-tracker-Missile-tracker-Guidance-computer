@@ -1,4 +1,4 @@
-![alt text](https://github.com/Daniboy370/Missile-Guidance/blob/master/Project_3/Iron-Dome.jpg)
+![alt text](![image](https://user-images.githubusercontent.com/60804832/217677699-f7e06858-2514-4ab0-a3ad-9be51edf0f0b.png))
 
 ## Optimal guidance at work
 
