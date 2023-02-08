@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/60804832/217677773-20e48099-3de4-4eef-9e51-7eb93542eb76.png)
-)
+
 
 ## Optimal guidance at work
 
